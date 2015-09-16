@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說馬有八態譬人經
+#+DATE: 2015-08-30 19:31:50.115722
+#+PROPERTY: JUAN 0
